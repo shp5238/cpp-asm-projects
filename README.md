@@ -8,7 +8,7 @@ This project is a custom shell program that provides essential command-line func
 
 ## Screenshots
 
-![Results Screenshot](screenshot.png)
+![Results Screenshot](BuildingAShellResults.png)
 
 ## Lessons Learned
 
